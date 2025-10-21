@@ -57,6 +57,7 @@
 - **Gestión de Issues / Tickets**
 - **Code Review**
 - **SCRUM • Buenas prácticas • Refactorización continua**
+- **Agile Modeling**
 
 ---
 
