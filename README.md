@@ -1,8 +1,12 @@
 <h1 align="center">Oscar Abdiel Mejía Martinéz</h1>
 <h3 align="center">Full Stack Developer -</h3>
+
 ---
+
 <h4 aling="center">Experiencia</h4>
+
 ---
+
 ### 🧠 Habilidades principales
 | Tecnología | Nivel |
 |-------------|--------|
