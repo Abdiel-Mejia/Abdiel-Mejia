@@ -52,7 +52,10 @@
 
 ### 🏗️ Arquitectura y Metodologías
 - **Model • Controller • Repository • Service**  
-- **APIs RESTful • CRUD**  
+- **APIs RESTful • CRUD**
+- **Waterfall / Cascada**
+- **Gestión de Issues / Tickets**
+- **Code Review**
 - **SCRUM • Buenas prácticas • Refactorización continua**
 
 ---
