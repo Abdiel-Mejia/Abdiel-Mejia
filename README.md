@@ -3,7 +3,7 @@
 
 ---
 
-<h4 aling="center">Experiencia</h4>
+<h3 aling="center">Experiencia</h3>
 
 ---
 
