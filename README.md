@@ -65,8 +65,8 @@
 ---
 
 ## 🧩 Stack Técnico
-`Java` • `C#` • `C++` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS / SCSS` • `React` • `Angular` • `Vue` • `Node.js` • `Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL` • `CSV / Excel` 
-                                                                      `Android Studio` • `Vite` • `GitHub` • `Django` • `Bootstrap`
+`Java` • `C#` • `C++` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS / SCSS` • `React` • `Angular` • `Vue` • `Node.js` • `Spring Boot` • `Maven` • `NPM` 
+                                 `JWT` • `MySQL / SQL` • `CSV / Excel` • `Android Studio` • `Vite` • `GitHub` • `Django` • `Bootstrap`
 
 ---
 
