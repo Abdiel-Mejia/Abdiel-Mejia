@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Abdiel Mejía</h1>
+<h1 align="center">Oscar Abdiel Mejía Martinéz</h1>
 <h3 align="center">Full Stack Developer • Java & JavaScript</h3>
 <p align="center">
   Apasionado por los desafíos, con enfoque en buenas prácticas, rendimiento y despliegue a producción.  
