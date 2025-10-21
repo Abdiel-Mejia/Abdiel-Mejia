@@ -46,6 +46,9 @@
 - 🎨 **Bootstrap** – Interfaces modernas y responsivas  
 - 🔐 **JWT** – Autenticación segura  
 - 📊 **CSV / Excel** – Automatización e integración de datos  
+- 📌 **Jira** – Gestión de proyectos y seguimiento de tareas  
+- 🗂️ **Notion** – Organización de documentación y flujos de trabajo  
+- 🌐 **Netlify** – Despliegue de aplicaciones web estáticas y front-end
 
 ### 🏗️ Arquitectura y Metodologías
 - **Model • Controller • Repository • Service**  
