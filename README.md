@@ -1,13 +1,8 @@
 <h1 align="center">Oscar Abdiel Mejía Martinéz</h1>
-<h3 align="center">Full Stack Developer • Java & JavaScript</h3>
-<p align="center">
-  Apasionado por los desafíos, con enfoque en buenas prácticas, rendimiento y despliegue a producción.  
-  <br>
-  <b>Open to Work</b> | <a href="https://github.com/Abdiel-Mejia">GitHub: Abdiel-Mejia</a>
-</p>
-
+<h3 align="center">Full Stack Developer -</h3>
 ---
-
+<h4 aling="center">Experiencia</h4>
+---
 ### 🧠 Habilidades principales
 | Tecnología | Nivel |
 |-------------|--------|
