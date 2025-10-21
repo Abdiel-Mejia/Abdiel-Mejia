@@ -1,77 +1,61 @@
-<h1 align="center">Oscar Abdiel Mejía Martinéz</h1>
-<h3 align="center">Full Stack Developer -</h3>
+<h1 align="center">Oscar Abdiel Mejía Martínez</h1>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 ---
 
-<h3 aling="center">Experiencia</h3>
-<h4>THB</h4>
-<h4>Instituto Ana Sullivan</h4>
-<h4>UNINAV</h4>
-<h4>Rolling Indie Motors</h4>
+## 🧰 Experiencia
+**THB** — Desarrollo y mantenimiento de sistemas internos en Java/Spring Boot.  
+**UNINAV** — Participación en proyectos educativos digitales y automatización de procesos.
 
 ---
 
-### 🧠 Habilidades principales
-| Tecnología | Nivel |
-|-------------|--------|
-| TypeScript | 🔹 82% |
-| JavaScript | 🔹 90% |
-| Java / Spring Boot | 🔹 88% |
-| React / Angular / Vue | 🔹 80% |
-| Node / NPM / Vite | 🔹 76% |
-| Bases de datos / Queries | 🔹 92% |
-| CI / Deployment | 🔹 74% |
-| C# / C++ | 🔹 60% |
+## 🚀 Proyectos
+**Rolling Indie Motors** — Sistema de gestión con frontend React y backend Spring Boot.  
+**Instituto Ana Sullivan** — Aplicación CRUD con autenticación JWT y exportación Excel.
 
 ---
+
+## 🧠 Habilidades Técnicas
 
 ### ⚙️ Herramientas y Flujo
-- 🐙 **GitHub** – Repositorios y Pull Requests  
-- 🧩 **Maven** – Build para proyectos Java  
-- 🐳 **Docker** – (En proceso)  
-- 📱 **Android Studio** – Desarrollo de apps
-- 🎨 **Bootstrap** – Autenticación  
-- 🔐 **JWT** – Autenticación  
-- 📊 **CSV / Excel** – Import / Export y automatización
-
----
+- 🐙 **GitHub** – Control de versiones y manejo de ramas  
+- 🧩 **Maven** – Build y gestión de dependencias Java  
+- 🐳 **Docker** – (En aprendizaje continuo)  
+- 📱 **Android Studio** – Desarrollo de aplicaciones móviles  
+- 🎨 **Bootstrap** – Interfaces modernas y responsivas  
+- 🔐 **JWT** – Autenticación segura  
+- 📊 **CSV / Excel** – Automatización e integración de datos  
 
 ### 🏗️ Arquitectura y Metodologías
-- **Model • Controller • Repository • Service**
-- **APIs RESTful • CRUD**
+- **Model • Controller • Repository • Service**  
+- **APIs RESTful • CRUD**  
 - **SCRUM • Buenas prácticas • Refactorización continua**
 
 ---
 
-### 💡 Sobre mí
-Soy **Full Stack Developer** con una sólida base en **Java** y un stack moderno de **frontend**.  
-Me enfoco en entregar código limpio, optimizar consultas y llevar proyectos a producción.  
-Interesado en arquitectura, rendimiento y escalabilidad.
+## 🎓 Educación
+**Ingeniería en Sistemas Computacionales**  
+(Agregar institución si quieres hacerlo más formal)
 
 ---
 
-### 🧩 Stack Técnico
+## 💡 Sobre mí
+Soy **Full Stack Developer** con una sólida base en **Java** y tecnologías **frontend modernas**.  
+Me apasiona optimizar código, estructurar arquitecturas limpias y llevar proyectos a producción.  
+Busco crecer en entornos donde se valore la calidad, el aprendizaje continuo y la innovación.
+
+---
+
+## 🧩 Stack Técnico
 `HTML` • `CSS / SCSS` • `JavaScript` • `TypeScript` • `React` • `Angular` • `Vue`  
-`Node` • `Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL`  
+`Node.js` • `Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL`  
 `CSV / Excel` • `C#` • `C++` • `Android Studio` • `Vite` • `GitHub`
 
 ---
 
-### 🚀 Proyectos destacados
-- ⚙️ **API REST** con Spring Boot y SQL optimizada para consultas rápidas y migraciones de BD.  
-- 🎨 **Frontend SPA** en React/Angular con autenticación JWT y despliegue a producción.  
-- 📈 **Automatización** de generación de Excel/CSV y procesos ETL para migración de datos.
-
----
-
+## 🌐 Portafolio
 <p align="center">
   <a href="https://abdiel-mejia.github.io/portfolio" target="_blank">
     🎯 <b>Ver mi portafolio interactivo</b>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>¿Quieres que agregue más secciones (experiencia, certificaciones o ejemplos de código)?</i>
 </p>
