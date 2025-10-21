@@ -65,7 +65,8 @@
 ## 🌐 Portafolio
 <p align="center">
   <a href="https://github.com/Abdiel-Mejia?tab=repositories" target="_blank">
-    🎯 <b>Ver mis repositorios públicos</b>
+    🎯 <b>Ver mis proyectos públicos y prácticas</b>
   </a>
 </p>
+
 
