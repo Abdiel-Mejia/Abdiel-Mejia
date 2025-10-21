@@ -39,7 +39,7 @@
 ## 🧠 Habilidades Técnicas
 
 ### ⚙️ Herramientas y Flujo
-- 🐙 **GitHub** – Control de versiones y Pull Requests  
+- 🐙 **GitHub & Versionamiento** – Control de versiones con Git y manejo de versiones semánticas (v1.0.0, v1.1.0, etc.)
 - 🧩 **Maven** – Gestión de dependencias y builds Java  
 - 🐳 **Docker** – Contenedores (en aprendizaje)  
 - 📱 **Android Studio** – Desarrollo de apps móviles  
@@ -51,14 +51,17 @@
 - 🌐 **Netlify** – Despliegue de aplicaciones web estáticas y front-end
 
 ### 🏗️ Arquitectura y Metodologías
-- **Model • Controller • Repository • Service**  
-- **APIs RESTful • CRUD**
-- **Waterfall / Cascada**
-- **Gestión de Issues / Tickets**
-- **Code Review**
-- **SCRUM • Buenas prácticas • Refactorización continua**
-- **Agile Modeling**
+- 🏛️ **Model • Controller • Repository • Service (MCRS)**  
+- 🌐 **APIs RESTful • CRUD**
+- 📊 **ETL / Migración de datos**
+- 🔄 **Versionamiento Semántico** (v1.0.0, v1.1.0, etc.)  
+- 🧩 **Waterfall / Cascada**  
+- 📌 **SCRUM • Gestión de Issues / Tickets**  
+- ✅ **Code Review**  
+- 🧹 **Clean Code / SOLID • Refactoring continuo**  
+- 📐 **Agile Modeling**
 
+  
 ---
 
 ## 🧩 Stack Técnico
