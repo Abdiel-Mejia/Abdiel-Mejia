@@ -8,6 +8,7 @@
 <h4>Instituto Ana Sullivan</h4>
 <h4>UNINAV</h4>
 <h4>Rolling Indie Motors</h4>
+
 ---
 
 ### 🧠 Habilidades principales
