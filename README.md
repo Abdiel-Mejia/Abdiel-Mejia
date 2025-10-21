@@ -26,7 +26,8 @@
 - 🐙 **GitHub** – Repositorios y Pull Requests  
 - 🧩 **Maven** – Build para proyectos Java  
 - 🐳 **Docker** – (En proceso)  
-- 📱 **Android Studio** – Desarrollo de apps  
+- 📱 **Android Studio** – Desarrollo de apps
+- 🎨 **Bootstrap** – Autenticación  
 - 🔐 **JWT** – Autenticación  
 - 📊 **CSV / Excel** – Import / Export y automatización
 
