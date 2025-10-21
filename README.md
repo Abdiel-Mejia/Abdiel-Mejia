@@ -1,27 +1,48 @@
 <h1 align="center">Oscar Abdiel Mejía Martínez</h1>
-<h3 align="center">💻 Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ## 🧰 Experiencia
-**THB** — Desarrollo y mantenimiento de sistemas internos en Java/Spring Boot.  
-**UNINAV** — Participación en proyectos educativos digitales y automatización de procesos.
+
+**THB**  
+- **REXX** – Rediseño completo del backend usando **Spring Boot, Java, Maven y JWT**.  
+  - Implementación de arquitectura **MVC** con reportes en **XLSX, CSV, Excel** incluyendo marcas de agua, footer y header.  
+  - Gestión de base de datos en **MySQL** y creación de manual completo (backend, frontend y BD) con instrucciones de instalación y ejecución.  
+  - Frontend con **Angular, TypeScript, HTML, SCSS y Bootstrap**, incluyendo control de acceso por usuario y lógica de negocio para costos, garantías y coberturas.  
+
+- **GAMES** – Plataforma para juegos competitivos de la **NFL**.  
+  - Gestión de cotejos, actualización y consulta de la base de datos.  
+
+- **APPS** – Desarrollo de aplicaciones con **Vite y Vue**.  
+  - Creación de frames anidados para ventas de seguros al público y empleados, con navegación interna fluida.
+
+**UNINAV**  
+- Actualización de apartados institucionales usando **HTML, CSS, JavaScript y Bootstrap**.  
+- Despliegue de actualizaciones al servidor y mantenimiento de la página web.
 
 ---
 
-## 🚀 Proyectos
-**Rolling Indie Motors** — Sistema de gestión con frontend React y backend Spring Boot.  
-**Instituto Ana Sullivan** — Aplicación CRUD con autenticación JWT y exportación Excel.
+## 🚀 Proyectos Destacados
+
+**Rolling Indie Motors**  
+- Sitio web para taller automotriz: historia, asesorías, programación de citas y contacto vía **WhatsApp**.  
+- Tecnologías: **HTML, CSS, JavaScript** y APIs para envío de correos a clientes.
+
+**Instituto Ana Sullivan**  
+- Portal institucional con noticias, mapa de ubicación, agendamiento de citas y botones de contacto.  
+- Tecnologías: **Angular, TypeScript, SCSS**.  
+- Despliegue a producción gestionado mediante **GitHub**.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
 ### ⚙️ Herramientas y Flujo
-- 🐙 **GitHub** – Control de versiones y manejo de ramas  
-- 🧩 **Maven** – Build y gestión de dependencias Java  
-- 🐳 **Docker** – (En aprendizaje continuo)  
-- 📱 **Android Studio** – Desarrollo de aplicaciones móviles  
+- 🐙 **GitHub** – Control de versiones y Pull Requests  
+- 🧩 **Maven** – Gestión de dependencias y builds Java  
+- 🐳 **Docker** – Contenedores (en aprendizaje)  
+- 📱 **Android Studio** – Desarrollo de apps móviles  
 - 🎨 **Bootstrap** – Interfaces modernas y responsivas  
 - 🔐 **JWT** – Autenticación segura  
 - 📊 **CSV / Excel** – Automatización e integración de datos  
@@ -33,23 +54,11 @@
 
 ---
 
-## 🎓 Educación
-**Ingeniería en Sistemas Computacionales**  
-(Agregar institución si quieres hacerlo más formal)
-
----
-
-## 💡 Sobre mí
-Soy **Full Stack Developer** con una sólida base en **Java** y tecnologías **frontend modernas**.  
-Me apasiona optimizar código, estructurar arquitecturas limpias y llevar proyectos a producción.  
-Busco crecer en entornos donde se valore la calidad, el aprendizaje continuo y la innovación.
-
----
-
 ## 🧩 Stack Técnico
-`HTML` • `CSS / SCSS` • `JavaScript` • `TypeScript` • `React` • `Angular` • `Vue`  
-`Node.js` • `Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL`  
-`CSV / Excel` • `C#` • `C++` • `Android Studio` • `Vite` • `GitHub`
+`Java` • `C#` • `C++` • `Python` • `JavaScript` • `TypeScript`  
+`HTML` • `CSS / SCSS` • `React` • `Angular` • `Vue` • `Node.js`  
+`Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL` • `CSV / Excel`  
+`Android Studio` • `Vite` • `GitHub` • `Django` • `Bootstrap`
 
 ---
 
