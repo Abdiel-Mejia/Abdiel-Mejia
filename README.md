@@ -68,17 +68,17 @@
 ---
 
 ## 🧩 Stack Técnico
-# Lenguajes de Programación
+#### Lenguajes de Programación
 `Java` • `Python` • `C#` • `C++` • `TypeScript` • `JavaScript` • `PHP`  • `Kotlin` 
-# Frontend / Maquetación / Estilos
+#### Frontend / Maquetación / Estilos
 `Html` • `CSS/SCSS` • `React` • `Angular` • `Vue` • `Bootstrap`• `` • `Vite` • `Ionic` •
-# Frameworks /  Backend / Base de datos / Autenticación
+#### Frameworks /  Backend / Base de datos / Autenticación
 `Node.js` • `Spring Boot` • `Django` • `MySQL / SQL` • `JWT`
-# Gestion de Dependencias / Build Tools
+#### Gestion de Dependencias / Build Tools
 `Maven` • `NPM` •
-# IDE / Entorno de Desarrollo
+#### IDE / Entorno de Desarrollo
 `Android Studio` • `Visual Studio Code` 
-# Control de Versiones
+#### Control de Versiones
 `Github` •
 
 ---
