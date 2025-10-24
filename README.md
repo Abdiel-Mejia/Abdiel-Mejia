@@ -51,7 +51,7 @@
 - 📌 **Jira** – Gestión de proyectos y seguimiento de tareas  
 - 🗂️ **Notion** – Organización de documentación y flujos de trabajo  
 - 🌐 **Netlify** – Despliegue de aplicaciones web estáticas y front-end
-- 
+- ☁️ **Clever Cloud** – Configuración y despliegue de bases de datos MySQL en la nube para entornos de desarrollo y pruebas
 
 ### 🏗️ Arquitectura y Metodologías
 - 🏛️ **Model • Controller • Repository • Service (MCRS)**  
