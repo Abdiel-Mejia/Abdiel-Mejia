@@ -9,7 +9,8 @@
 - **REXX** – Rediseño completo del backend usando **Spring Boot, Java, Maven y JWT**.  
   - Implementación de arquitectura **MVC** con reportes en **XLSX, CSV, Excel** incluyendo marcas de agua, footer y header.  
   - Gestión de base de datos en **MySQL** y creación de manual completo (backend, frontend y BD) con instrucciones de instalación y ejecución.  
-  - Frontend con **Angular, TypeScript, HTML, SCSS y Bootstrap**, incluyendo control de acceso por usuario y lógica de negocio para costos, garantías y coberturas.  
+  - Frontend con **Angular, TypeScript, HTML, SCSS y Bootstrap**, incluyendo control de acceso por usuario y lógica de negocio para costos, garantías y coberturas.
+  - Pruebas y documentación de endpoints con **Postman**, verificando autenticación JWT y flujos CRUD del backend.
 
 - **GAMES** – Plataforma para juegos competitivos de la **NFL**.  
   - Gestión de cotejos, actualización y consulta de la base de datos.  
@@ -40,6 +41,7 @@
 
 ### ⚙️ Herramientas y Flujo
 - 🐙 **GitHub & Versionamiento** – Control de versiones con Git y manejo de versiones semánticas (v1.0.0, v1.1.0, etc.)
+- 🧪 **Postman** – Pruebas, documentación y validación de APIs REST  
 - 🧩 **Maven** – Gestión de dependencias y builds Java  
 - 🐳 **Docker** – Contenedores (en aprendizaje)  
 - 📱 **Android Studio** – Desarrollo de apps móviles  
