@@ -68,7 +68,18 @@
 ---
 
 ## 🧩 Stack Técnico
-`Java` • `C#` • `C++` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS / SCSS` • `React` • `Angular` • `Vue` • `Node.js` • `Spring Boot` • `Maven` • `NPM` • `JWT` • `MySQL / SQL` • `CSV / Excel` • `Android Studio` • `Vite` • `GitHub` • `Django` • `Bootstrap`
+# Lenguajes de Programación
+`Java` • `Python` • `C#` • `C++` • `TypeScript` • `JavaScript` • `PHP`  • `Kotlin` 
+# Frontend / Maquetación / Estilos
+`Html` • `CSS/SCSS` • `React` • `Angular` • `Vue` • `Bootstrap`• `` • `Vite` • `Ionic` •
+# Frameworks /  Backend / Base de datos / Autenticación
+`Node.js` • `Spring Boot` • `Django` • `MySQL / SQL` • `JWT`
+# Gestion de Dependencias / Build Tools
+`Maven` • `NPM` •
+# IDE / Entorno de Desarrollo
+`Android Studio` • `Visual Studio Code` 
+# Control de Versiones
+`Github` •
 
 ---
 
