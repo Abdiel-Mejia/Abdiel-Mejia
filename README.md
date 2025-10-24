@@ -28,7 +28,7 @@
 
 **Rolling Indie Motors**  
 - Sitio web para taller automotriz: historia, asesorías, programación de citas y contacto vía **WhatsApp**.  
-- Tecnologías: **HTML, CSS, JavaScript** y APIs para envío de correos a clientes.
+- Tecnologías: **HTML, CSS, JavaScript** y APIs para envío de correos al taller.
 
 **Instituto Ana Sullivan**  
 - Portal institucional con noticias, mapa de ubicación, agendamiento de citas y botones de contacto.  
@@ -51,6 +51,7 @@
 - 📌 **Jira** – Gestión de proyectos y seguimiento de tareas  
 - 🗂️ **Notion** – Organización de documentación y flujos de trabajo  
 - 🌐 **Netlify** – Despliegue de aplicaciones web estáticas y front-end
+- 
 
 ### 🏗️ Arquitectura y Metodologías
 - 🏛️ **Model • Controller • Repository • Service (MCRS)**  
