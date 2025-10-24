@@ -71,15 +71,15 @@
 #### Lenguajes de Programación
 `Java` • `Python` • `C#` • `C++` • `TypeScript` • `JavaScript` • `PHP`  • `Kotlin` 
 #### Frontend / Maquetación / Estilos
-`Html` • `CSS/SCSS` • `React` • `Angular` • `Vue` • `Bootstrap` • `Vite` • `Ionic` •
+`Html` • `CSS/SCSS` • `React` • `Angular` • `Vue` • `Bootstrap` • `Vite` • `Ionic` 
 #### Frameworks /  Backend / Base de datos / Autenticación
 `Node.js` • `Spring Boot` • `Django` • `MySQL / SQL` • `JWT`
 #### Gestion de Dependencias / Build Tools
-`Maven` • `NPM` •
+`Maven` • `NPM` 
 #### IDE / Entorno de Desarrollo
 `Android Studio` • `Visual Studio Code` 
 #### Control de Versiones
-`Github` •
+`Github` 
 
 ---
 
