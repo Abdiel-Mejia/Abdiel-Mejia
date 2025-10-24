@@ -74,20 +74,13 @@
 `Html` • `CSS/SCSS` • `React` • `Angular` • `Vue` • `Bootstrap` • `Vite` • `Ionic` 
 #### Frameworks /  Backend / Base de datos / Autenticación
 `Node.js` • `Spring Boot` • `Django` • `MySQL / SQL` • `JWT`
-#### Gestion de Dependencias / Build Tools
-`Maven` • `NPM` 
-#### IDE / Entorno de Desarrollo
-`Android Studio` • `Visual Studio Code` 
-#### Control de Versiones
-`Github` 
+#### Gestion de Dependencias / Build Tools / IDE / Entorno de Desarrollo / Control de Versiones
+`Maven` • `NPM` • `Android Studio` • `Visual Studio Code` • `Github` 
 
 ---
 
 ## 🌐 Portafolio
-<p align="center">
-  <a href="https://github.com/Abdiel-Mejia?tab=repositories" target="_blank">
-    🎯 <b>Ver mis proyectos públicos y prácticas</b>
-  </a>
-</p>
+[🎯 Ver mis proyectos públicos y prácticas](https://github.com/Abdiel-Mejia?tab=repositories)
+
 
 
