@@ -33,7 +33,7 @@
 **Instituto Ana Sullivan**  
 - Portal institucional con noticias, mapa de ubicación, agendamiento de citas y botones de contacto y login de modulos de pago.  
 - Tecnologías: **Angular, TypeScript, SCSS, Java, Spring Boot, Maven, JWT y Docker**.  
-- Despliegue a producción: Render y Netlify gestionado mediante **GitHub** | Base de datos **Clever Cloud**.
+- Despliegue a producción: **Render y Netlify** gestionado mediante **GitHub** | Base de datos **Clever Cloud**.
 
 ---
 
