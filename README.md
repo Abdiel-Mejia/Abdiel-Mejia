@@ -31,9 +31,9 @@
 - Tecnologías: **HTML, CSS, JavaScript** y APIs para envío de correos al taller.
 
 **Instituto Ana Sullivan**  
-- Portal institucional con noticias, mapa de ubicación, agendamiento de citas y botones de contacto.  
-- Tecnologías: **Angular, TypeScript, SCSS**.  
-- Despliegue a producción gestionado mediante **GitHub**.
+- Portal institucional con noticias, mapa de ubicación, agendamiento de citas y botones de contacto y login de modulos de pago.  
+- Tecnologías: **Angular, TypeScript, SCSS, Java, Spring Boot, Maven y JWT**.  
+- Despliegue a producción: Render y Netlify gestionado mediante **GitHub** | Base de datos **Clever Cloud**.
 
 ---
 
