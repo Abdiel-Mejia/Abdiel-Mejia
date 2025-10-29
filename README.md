@@ -43,7 +43,7 @@
 - 🐙 **GitHub & Versionamiento** – Control de versiones con Git y manejo de versiones semánticas (v1.0.0, v1.1.0, etc.)
 - 🧪 **Postman** – Pruebas, documentación y validación de APIs REST  
 - 🧩 **Maven** – Gestión de dependencias y builds Java  
-- 🐳 **Docker** – Contenedores (en aprendizaje)  
+- 🐳 **Docker** – Contenedores  
 - 📱 **Android Studio** – Desarrollo de apps móviles  
 - 🎨 **Bootstrap** – Interfaces modernas y responsivas  
 - 🔐 **JWT** – Autenticación segura  
