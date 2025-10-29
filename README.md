@@ -27,7 +27,7 @@
 ## 🚀 Proyectos Destacados
 
 **Rolling Indie Motors**  
-- Sitio web para taller automotriz: historia, asesorías, programación de citas y contacto vía **WhatsApp**.  
+- Sitio web para taller de motociclistas: historia, asesorías, programación de citas y contacto vía **WhatsApp**.  
 - Tecnologías: **HTML, CSS, JavaScript** y APIs para envío de correos al taller.
 
 **Instituto Ana Sullivan**  
