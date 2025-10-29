@@ -7,7 +7,7 @@
 
 **THB**  
 - **REXX** – Rediseño completo del backend usando **Spring Boot, Java, Maven y JWT**.  
-  - Implementación de arquitectura **MVC** con reportes en **XLSX, CSV, Excel** incluyendo marcas de agua, footer y header.  
+  - Implementación de arquitectura **MVC** con reportes en **XLSX, CSV, PDF** incluyendo marcas de agua, footer y header.  
   - Gestión de base de datos en **MySQL** y creación de manual completo (backend, frontend y BD) con instrucciones de instalación y ejecución.  
   - Frontend con **Angular, TypeScript, HTML, SCSS y Bootstrap**, incluyendo control de acceso por usuario y lógica de negocio para costos, garantías y coberturas.
   - Pruebas y documentación de endpoints con **Postman**, verificando autenticación JWT y flujos CRUD del backend.
